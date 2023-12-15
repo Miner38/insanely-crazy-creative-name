@@ -1,6 +1,6 @@
 # /bin/bash
 
-cd ~/.mozilla/firefox/
+cd /home/tc/.mozilla/firefox/
 cd *.default-release
 touch users.js
 printf "user_pref(\"browser.sessionstore.resume_from_crash\", false);\n" > users.js
