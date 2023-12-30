@@ -1,0 +1,5 @@
+# make sure config stays there
+kiosk_config=https://miner38.github.io/insanely-crazy-creative-name/remote_kiosk_config.txt
+# change to file:/// later
+homepage=https://miner38.github.io/insanely-crazy-creative-name/project.html
+# E
